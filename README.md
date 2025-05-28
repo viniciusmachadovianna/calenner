@@ -6,18 +6,18 @@
 
 ### Dependencies:
 
-  router@4            #routing
-  pinia               #states
-  dayjs               #date/time
-  tailwindcss (soon)  #styling
+  router@4            #routing  
+  pinia               #states  
+  dayjs               #date/time  
+  tailwindcss (soon)  #styling  
 
 ## Component info:
-  1. DayView
-    **Description:** Daily tasks with hour sections
-    **Props**: None so far.
-  2. ProgressBar 
-    **Description:** Indicates the actual view state, could be hours, days, weeks or months depending on plan atomicity.
-    **Props**: None so far.
+  1. DayView  
+    **Description:** Daily tasks with hour sections.  
+    **Props**: None so far.  
+  2. ProgressBar   
+    **Description:** Indicates the actual view state, could be hours, days, weeks or months depending on plan atomicity.  
+    **Props**: None so far.  
 
 
 #### Vue --version for reference = @vue/cli 5.0.8
